@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+
+#header {
+    background-color: black;
+}
+
+a {
+    color: white;
+    font-size: 18px;
+}
+
+#nav li {
+    display: inline-block;
+    padding: 15px;
+}
+
+#nav li:hover {
+    background-color: darkgray;
+    color: black;
+}
+
+#img_1 {
+    width: 100%;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#the-band {
+    font-size: 30px;
+}
+
+
+#body {
+    text-align: center;
+}
+
+.lorem {
+    width: 60%;
+    margin: auto;
+    text-align: justify;
+}
+
+.infomation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 400;
+    margin: 10px 0px;
+
+}
+
+.wide {
+    letter-spacing: 4px;
+}
+
+.opacity {
+    opacity: 0.6;
+}
+
+.w3-input {
+    width: 100%;
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc
+}
+
+.w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    text-decoration: none;
+    color: inherit;
+    color: white;
+    background-color: black;
+}
+
+.w3-button:hover {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+
+#contact {
+    text-align: center;
+    margin: auto;
+}
+#body{
+    width: 80%;
+    margin:auto;
+}

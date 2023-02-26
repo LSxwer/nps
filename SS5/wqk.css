@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+#header{
+    background-color: black;
+}
+
+a{
+    color: white;
+  font-size: 18px;
+}
+
+#nav li {
+  display: inline-block;
+  padding: 15px;
+}
+
+#nav li:hover{
+background-color: darkgray;
+color: black;
+}
+
+#img_1{
+  width: 100%;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+#the-band{
+  font-size: 30px;
+}
+	
+
+#body{
+  text-align: center;
+}
+
+.lorem{
+  width:60%;
+  margin: auto;
+  text-align: justify;
+}
+
+.infomation{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 60%;
+  margin: auto;
+}
+
