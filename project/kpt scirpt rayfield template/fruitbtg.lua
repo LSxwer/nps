@@ -1,0 +1,1 @@
+https://www.mrguider.org/roblox/fruit-battlegrounds-tier-list/
